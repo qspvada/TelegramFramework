@@ -8,4 +8,9 @@ public class DesktopTest {
 	public void desktop_001() {
 		driver.changes happened
 	}
+	
+	@Test
+	public void desktop_003() {
+		
+	}
 }
